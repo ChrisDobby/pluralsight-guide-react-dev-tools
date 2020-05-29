@@ -34,7 +34,7 @@ const withChangedCount = Component => {
                     )}
                     {!showingCount && (
                         <button type="button" onClick={handleShowClick}>
-                            ShowCount
+                            Show count
                         </button>
                     )}
                 </div>
