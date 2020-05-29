@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid black;
+  padding: 2em;
+  margin: 2em;
+}
+
+.number-selector {
+  margin: 0.5em;
+}
+
+.with-changed-count {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.with-changed-count .component {
+  grid-column: 1;
+}
+
+.with-changed-count .counter {
+  grid-column: 2;
+}
