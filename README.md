@@ -3,6 +3,7 @@
 Used to create demonstrations for Pluralsight guides:
 
 [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)
+
 [Profiling Performance with React Developer Tools](https://www.pluralsight.com/guides/profiling-performance-with-react-developer-tools)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
